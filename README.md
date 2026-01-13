@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Game Dev" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Game Dev" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
 name: Alpay
@@ -30,9 +30,7 @@ location: Istanbul, Turkey 🇹🇷
 role: Creative Director & Game Developer
 company: Acuza Works (Founder)
 
-passion: |
-  Creating immersive 2D, 3D games and 
-  Virtual Production experiences
+passion: Creating immersive 2D/3D games & Virtual Production
 
 specialties:
   - Game Design & Development
@@ -40,11 +38,9 @@ specialties:
   - Virtual Production
   - Creative Direction
 
-currently_building: |
-  Innovative gaming projects that challenge,
-  disturb, and stay with you.
+currently_building: Games that challenge and stay with you
 
-philosophy: "Not for everyone. For those who seek the unforgettable."
+philosophy: "Not for everyone."
 ```
 
 <br clear="right"/>
@@ -142,12 +138,16 @@ philosophy: "Not for everyone. For those who seek the unforgettable."
 
 <div align="center">
 
-| <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alpycrz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Alpay's GitHub Stats" /> | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alpycrz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /> |
-| ------------- | ------------- |
+<a href="https://github.com/alpycrz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alpycrz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpycrz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=1a1b27"/>
+</a>
 
-<br/>
+<br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alpycrz&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="https://github.com/alpycrz">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=alpycrz&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -157,7 +157,9 @@ philosophy: "Not for everyone. For those who seek the unforgettable."
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alpycrz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
+<a href="https://github.com/alpycrz">
+  <img src="https://github-profile-trophy.vercel.app/?username=alpycrz&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+</a>
 
 </div>
 

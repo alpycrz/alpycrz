@@ -55,7 +55,10 @@ philosophy: "Not for everyone. For those who seek the unforgettable."
 
 <div align="center">
 
-### **ACUZA WORKS**
+<img src="./assets/acuza-logo.png" alt="Acuza Works Logo" width="400"/>
+
+<br/>
+
 #### *Not for everyone.*
 
 <br/>
@@ -109,7 +112,7 @@ philosophy: "Not for everyone. For those who seek the unforgettable."
 ### 🤖 AI Tools
 ![Claude](https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2.svg?style=for-the-badge&logo=google-gemini&logoColor=white)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48L3N2Zz4=&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-000000.svg?style=for-the-badge&logoColor=white)
 ![Hunyuan](https://img.shields.io/badge/Hunyuan-FF6600.svg?style=for-the-badge&logoColor=white)
 ![Kling AI](https://img.shields.io/badge/Kling-6366F1.svg?style=for-the-badge&logoColor=white)
 ![Runway](https://img.shields.io/badge/Runway-000000.svg?style=for-the-badge&logoColor=white)
@@ -138,28 +141,24 @@ philosophy: "Not for everyone. For those who seek the unforgettable."
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alpycrz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpycrz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-</div>
 
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=alpycrz&theme=tokyonight&hide_border=true"/>
-</div>
+| <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alpycrz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Alpay's GitHub Stats" /> | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alpycrz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /> |
+| ------------- | ------------- |
 
----
+<br/>
 
-## 🏆 GitHub Trophies
+[![GitHub Streak](https://streak-stats.demolab.com?user=alpycrz&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alpycrz&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1"/>
 </div>
 
 ---
 
-## 🔝 Top Contributed Repositories
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=alpycrz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true"/>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alpycrz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
+
 </div>
 
 ---
@@ -167,16 +166,17 @@ philosophy: "Not for everyone. For those who seek the unforgettable."
 <div align="center">
 
 ### 💬 Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  
+> *"The best games are the ones that challenge your perception of reality."*
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=alpycrz&style=for-the-badge&color=20C997"/>
+![Profile Views](https://komarev.com/ghpvc/?username=alpycrz&style=for-the-badge&color=20C997)
 
 <br/>
 
 **🎮 Creating games that refuse to be forgotten.**
 
-*Thanks for visiting! Let's create something different together ✨*
+*Thanks for visiting! Let's create something amazing together ✨*
 
 </div>

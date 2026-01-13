@@ -140,15 +140,19 @@ philosophy: "Not for everyone."
 
 <div align="center">
 
-<a href="https://github.com/alpycrz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alpycrz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpycrz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=1a1b27"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alpycrz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alpycrz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alpycrz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alpycrz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</picture>
 
 <br/><br/>
 
 <a href="https://github.com/alpycrz">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=alpycrz&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=alpycrz&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </a>
 
 </div>
@@ -159,8 +163,8 @@ philosophy: "Not for everyone."
 
 <div align="center">
 
-<a href="https://github.com/alpycrz">
-  <img src="https://github-profile-trophy.vercel.app/?username=alpycrz&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-trophies.vercel.app/?username=alpycrz&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
 </a>
 
 </div>

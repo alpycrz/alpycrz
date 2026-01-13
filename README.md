@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Game Dev" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 
 ```yaml
 name: Alpay
@@ -70,6 +70,8 @@ philosophy: "Not for everyone."
 ✨ *Not for everyone. For those who seek the unforgettable.*
 
 📍 *Crafted in Istanbul.*
+
+<img align="center" alt="Game Dev" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 </div>
 

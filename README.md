@@ -140,20 +140,11 @@ philosophy: "Not for everyone."
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alpycrz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alpycrz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alpycrz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alpycrz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</picture>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alpycrz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<br/><br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alpycrz&theme=tokyonight&hide_border=true&layout=compact)
 
-<a href="https://github.com/alpycrz">
-  <img src="https://streak-stats.demolab.com?user=alpycrz&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</a>
+![GitHub Streak](https://streak-stats.demolab.com?user=alpycrz&theme=tokyonight&hide_border=true)
 
 </div>
 

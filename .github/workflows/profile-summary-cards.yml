@@ -16,7 +16,8 @@ jobs:
     name: Generate summary cards
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release-3.0.0
+      # Doğru tag: @release (floating, en son stable'a işaret eder)
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:

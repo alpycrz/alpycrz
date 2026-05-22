@@ -168,10 +168,17 @@ In a market drowning in safe, sanitized content, **ACUZA** exists as a deliberat
 
 ## 📊 &nbsp; SIGNAL
 
+<!-- Bu görseller GitHub Action ile alpycrz/alpycrz reposunda üretiliyor -->
+<!-- profile-summary-cards.yml workflow'u ilk kez çalıştıktan sonra render olur -->
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alpycrz&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=B22222&icon_color=B22222&text_color=ffffff&count_private=true" alt="github stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpycrz&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=B22222&text_color=ffffff" alt="top languages"/>
+<img src="./profile-summary-card-output/radical/0-profile-details.svg" width="98%" alt="profile details"/>
+
+<br/><br/>
+
+<img src="./profile-summary-card-output/radical/3-stats.svg" height="200" alt="stats"/>
+<img src="./profile-summary-card-output/radical/1-repos-per-language.svg" height="200" alt="repos per language"/>
 
 <br/><br/>
 
@@ -190,8 +197,6 @@ In a market drowning in safe, sanitized content, **ACUZA** exists as a deliberat
 <div align="center">
   <img src="https://raw.githubusercontent.com/alpycrz/alpycrz/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
-
-<sub>↳ Aktif etmek için: <code>alpycrz/alpycrz</code> reposuna <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action'ını ekle.</sub>
 
 ---
 

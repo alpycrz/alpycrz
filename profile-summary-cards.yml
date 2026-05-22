@@ -1,0 +1,24 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    # Her gün UTC 00:00'da çalışır
+    - cron: "0 0 * * *"
+  workflow_dispatch:    # Manuel tetikleme için
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    name: Generate summary cards
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release-3.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 3   # Istanbul (UTC+3)

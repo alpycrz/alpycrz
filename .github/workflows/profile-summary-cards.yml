@@ -16,11 +16,14 @@ jobs:
     name: Generate summary cards
     steps:
       - uses: actions/checkout@v4
+        with:
+          # PAT'i checkout'a da ver — git remote bunu kullansın, push düzgün çalışsın
+          token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          # PAT kullanıyoruz — private repoları da okuyabilsin diye
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 3          # Istanbul (UTC+3)
-          # EXCLUDE: "HTML,CSS"  # İstersen bazı dilleri sayım dışı bırakabilirsin (örn. HTML/CSS gürültüsü)
+          # EXCLUDE: "HTML,CSS"  # İstersen bazı dilleri sayım dışı bırakabilirsin

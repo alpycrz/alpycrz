@@ -16,10 +16,11 @@ jobs:
     name: Generate summary cards
     steps:
       - uses: actions/checkout@v4
-      # Doğru tag: @release (floating, en son stable'a işaret eder)
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # PAT kullanıyoruz — private repoları da okuyabilsin diye
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          UTC_OFFSET: 3   # Istanbul (UTC+3)
+          UTC_OFFSET: 3          # Istanbul (UTC+3)
+          # EXCLUDE: "HTML,CSS"  # İstersen bazı dilleri sayım dışı bırakabilirsin (örn. HTML/CSS gürültüsü)

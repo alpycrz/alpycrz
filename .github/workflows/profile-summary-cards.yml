@@ -26,4 +26,4 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 3          # Istanbul (UTC+3)
-          EXCLUDE: "ShaderLab, GSLS"  # İstersen bazı dilleri sayım dışı bırakabilirsin
+          EXCLUDE: "ShaderLab, GSLS, GLSL"  # İstersen bazı dilleri sayım dışı bırakabilirsin

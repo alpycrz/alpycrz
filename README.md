@@ -58,57 +58,39 @@ In a market drowning in safe, sanitized content, **ACUZA** exists as a deliberat
 
 ---
 
-## ⚔ &nbsp; FEATURED PROJECTS
+## ⚔ &nbsp; NOW IN DEVELOPMENT
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🃏 &nbsp; Hellbound</h3>
-      <p><sub><b>Dark fantasy card game · Unity / C#</b></sub></p>
-      <p>A deck-builder set in a world where every card carries a sin.</p>
-      <p>
-        <img src="https://img.shields.io/badge/status-in%20development-B22222?style=flat-square&labelColor=0a0a0a"/>
-        <img src="https://img.shields.io/badge/Unity-0a0a0a?style=flat-square&logo=unity&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🟦 &nbsp; NeonRix</h3>
-      <p><sub><b>Roguelike × Tetris hybrid · Unity</b></sub></p>
-      <p>Block-stacking meets permadeath. Survive long enough to glitch the grid.</p>
-      <p>
-        <img src="https://img.shields.io/badge/status-prototype-B22222?style=flat-square&labelColor=0a0a0a"/>
-        <img src="https://img.shields.io/badge/Unity-0a0a0a?style=flat-square&logo=unity&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏰 &nbsp; Core Doctrine</h3>
-      <p><sub><b>Anti-hero tower defense roguelike · Unity 6.3</b></sub></p>
-      <p>Built on ScriptableObject-driven architecture. Defend what shouldn't exist.</p>
-      <p>
-        <img src="https://img.shields.io/badge/status-active-B22222?style=flat-square&labelColor=0a0a0a"/>
-        <img src="https://img.shields.io/badge/Unity%206.3-0a0a0a?style=flat-square&logo=unity&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗡 &nbsp; Blade Stand</h3>
-      <p><sub><b>Roguelite idle action · Mobile-first</b></sub></p>
-      <p>One swordsman. Infinite enemies. The stand never ends.</p>
-      <p>
-        <img src="https://img.shields.io/badge/status-design-B22222?style=flat-square&labelColor=0a0a0a"/>
-        <img src="https://img.shields.io/badge/Mobile-0a0a0a?style=flat-square&logo=android&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <h3>⛓ &nbsp; Menos Pheron: Chains</h3>
-      <p><sub><b>Top-down Android roguelite — spin-off of the Menos Pheron universe</b></sub></p>
-      <p>Featuring the <em>Kibir</em> mechanic and the <em>Titan Zinciri</em> active skill.</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### ⛓ &nbsp; Menos Pheron: Chains
+
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-B22222?style=for-the-badge&labelColor=0a0a0a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Unity-0a0a0a?style=for-the-badge&logo=unity&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PC%20%2B%20Android-0a0a0a?style=for-the-badge&logo=android&logoColor=B22222"/>
+
+<br/><br/>
+
+<b>Mythological action roguelite</b>
+
+<p>A top-down spin-off of the <em>Menos Pheron</em> universe.<br/>
+Built around the <b>Kibir</b> mechanic and the <b>Titan Zinciri</b> active skill.</p>
+
+</div>
+
+---
+
+## 🗄 &nbsp; THE ARCHIVE
+
+<sub>Past ACUZA prototypes — currently on hold, not abandoned. The right ones will return.</sub>
+
+| Project | Type | Engine | Status |
+|---|---|---|:--:|
+| 🃏 &nbsp;**Hellbound** | Dark fantasy card game | Unity / C# | `on hold` |
+| 🟦 &nbsp;**NeonRix** | Roguelike × Tetris hybrid | Unity | `on hold` |
+| 🏰 &nbsp;**Core Doctrine** | Anti-hero tower defense roguelike | Unity 6.3 | `on hold` |
+| 🗡 &nbsp;**Blade Stand** | Roguelite idle action | Unity / Mobile | `on hold` |
 
 ---
 
@@ -169,7 +151,6 @@ In a market drowning in safe, sanitized content, **ACUZA** exists as a deliberat
 ## 📊 &nbsp; SIGNAL
 
 <!-- Bu görseller GitHub Action ile alpycrz/alpycrz reposunda üretiliyor -->
-<!-- profile-summary-cards.yml workflow'u ilk kez çalıştıktan sonra render olur -->
 
 <div align="center">
 
@@ -192,10 +173,15 @@ In a market drowning in safe, sanitized content, **ACUZA** exists as a deliberat
 
 ---
 
-## 🐍 &nbsp; TRACE
+## ⌨ &nbsp; MOST PUSHED
+
+<sub>Commit bazında en çok dokunduğum diller.</sub>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alpycrz/alpycrz/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+<img src="./profile-summary-card-output/radical/2-most-commit-language.svg" height="200" alt="most committed languages"/>
+<img src="./profile-summary-card-output/radical/4-productive-time.svg" height="200" alt="productive time"/>
+
 </div>
 
 ---
@@ -203,7 +189,7 @@ In a market drowning in safe, sanitized content, **ACUZA** exists as a deliberat
 ## 🜂 &nbsp; CURRENTLY
 
 ```diff
-+ Building   →  Core Doctrine (Unity 6.3, ScriptableObject architecture)
++ Building   →  Menos Pheron: Chains (mythological action roguelite, PC + Android)
 + Learning   →  JavaScript & full-stack development
 + Sharpening →  Virtual Production workflows
 + Reading    →  Indie dev post-mortems
